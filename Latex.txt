@@ -1,6 +1,7 @@
 \documentclass{article}
 \usepackage[utf8]{inputenc}
 \usepackage[russian]{babel}
+\usepackage{hyperref}
 
 \title{№1123. Зарплата}
 \author{Орлов М. }
@@ -49,4 +50,6 @@ print(s)
 \newpage
 \section{Результаты решения}
 С первого раза мне удалось сдать задачу. Она прошла все тесты. Время выполнения работы - 0.078. Выделено памяти - 676кб
+\section{Ссылка на git-репозиторий}
+\href{https://github.com/OrlovMIc/1123}{https://github.com/OrlovMIc/1123}
 \end{document}
